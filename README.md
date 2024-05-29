@@ -1,4 +1,4 @@
-# IriusRisk Machine learning interview
+# Text PRocessing App
 
 ## Description
 How to run the application and this also provide more details about the app.
