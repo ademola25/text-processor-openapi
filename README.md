@@ -1,13 +1,22 @@
-# Text PRocessing App
+# TEXT PROCESSING APP
+
+## You can reach the app here
+http://ec2-3-89-228-171.compute-1.amazonaws.com:8501/
 
 ## Description
-How to run the application and this also provide more details about the app.
+I developed a Python-based application leveraging the OpenAI API and Transformers library to create an agent that assists non-native English speakers in improving their written English. The application does not involve model training or fine-tuning but focuses on effective prompt engineering using the Retrieval-Augmented Generation (RAG) approach when needed. The agent will provide three primary functionalities:
+1. Write Properly: Enhances both the grammar and style of the input message.
+2. Correct Grammar: Correct only the grammatical errors in the input message.
+3. Summarize : Provide a concise summary of the input message
 
-## Insert the openai secret key 
+## How to run the app locally
+How to run the application and this also provides more details about the app.
+
+### Insert the openai secret key 
 Insert openai secret key for OPEN_API_KEY in env file
 
 
-## How to Run the App
+### How to Run the App
 
 ### With Docker
 
