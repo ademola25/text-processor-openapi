@@ -3,9 +3,7 @@ import streamlit as st
 from project import write_properly, write_the_same_grammar_fixed, summarize
 
 
-### Main function
 def main():
-    ## adding page title
     st.title("Intelli Text Processing Application")
     st.caption("A Python-based application leveraging the OpenAI API and Transformers \
     library to create an agent that assists non-native English speakers in improving their written English. \
